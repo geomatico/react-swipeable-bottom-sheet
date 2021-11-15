@@ -1,5 +1,9 @@
 # Swipeable Bottom Sheet
 
+# WARNING
+
+This only works with node `0.10`
+
 A swipeable material's bottom sheet implementation, that uses [react-swipeable-views](https://github.com/oliviertassinari/react-swipeable-views).
 This can be used to reproduce Material Design's [Bottom Sheet](https://material.io/guidelines/components/bottom-sheets.html) guidelines
 
